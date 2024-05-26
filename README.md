@@ -8,7 +8,7 @@
 
 <!-- Animated Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&height=50&lines=Fulutter+Developer;Love+to+Code+%26+Collaborate;Open+Source+Enthusiast">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&height=50&lines=Flutter+Developer;Love+to+Code+%26+Collaborate;Open+Source+Enthusiast">
 </p>
 
 ---

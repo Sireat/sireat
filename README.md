@@ -71,7 +71,7 @@
 ---
 ## 🐱‍💻 My Projects
 
-- [Project 1](https://github.com/sireat/onTech): E-commerc Wedsite for my internship program.
+- [Project 1](https://github.com/sireat/OneTech): E-commerc Wedsite for my internship program.
 - [Project 2](https://github.com/sireat/Rick_Morty): Rick_Morty  using vue.
 - [Portfolio](https://sireat.github.io/to-know-about-me/):
 - [Rich & Morty](https://my-rick-morty-website.netlify.app)

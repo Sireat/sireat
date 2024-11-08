@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Sireat 👋</h1>
-<h3 align="center">A passionate developer specializing in Flutter, NestJS, prisma, and PostgreSQL.</h3>
+<h3 align="center">A passionate  Flutter Developer</h3>
 
 <!-- Animated Text -->
 <p align="center">

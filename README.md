@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 - 💻 Flutter Developer with a passion for building modern, user-friendly mobile applications.
-- 🌱 Currently learning **advanced state management and backend integrations**.
+- 🌱 Currently working on **advanced projects** focusing on state management and backend integrations.
 - 🤝 Open to collaboration on interesting projects and open-source contributions.
 - 🎯 Always striving to improve and stay updated with new technologies.
 

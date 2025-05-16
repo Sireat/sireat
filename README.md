@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Sireat! 👋</h1>
-<h3 align="center">Coding turns ideas into solutions.</h3>
+<h3 align="center">With code, no problem is too big to solve.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&height=50&lines=Flutter+Developer;Love+to+Code+%26+Collaborate;Open+Source+Enthusiast">

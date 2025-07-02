@@ -31,20 +31,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
-//---
-//
-//## 📊 GitHub Stats
 
-//<p align="center">
-  //<img src="https://github-readme-stats.vercel.app/api?username=sireat&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats">
-  //<img src="https://github-readme-streak-stats.herokuapp.com/?user=sireat&theme=radical&hide_border=true" alt="GitHub Streak Stats">
-//</p>
-
-//<p align="center">
-//  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sireat&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-//</p>
-
-//---
 
 ## 🏆 GitHub Trophies
 

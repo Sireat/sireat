@@ -96,7 +96,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me  Connect with Me  Connect with Me Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sireat">

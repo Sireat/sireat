@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Flutter+Developer;AI+Integration+Expert;UI%2FUX+Enthusiast;Open+Source+Contributor;Building+the+Future+with+Real-Time+Apps">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Flutter+Developer;AI+Integration+Expert;UI%2FUX+Enthusiast;Open+Source+Contributor;Building+the+Future+with+Real-Time+Apps" alt="typing svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Flutter+Developer;UI%2FUX+Enthusiast;Building+the+Future+with+Real-Time+Apps" alt="typing svg">
   </a>
 </p>
 

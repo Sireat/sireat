@@ -82,13 +82,6 @@
   A real-time chat and calling app built with Flutter and CometChat, featuring AI-powered note-taking, voice transcription, and creative dreamboards with music and visual generation.
 - **[OneTech](https://github.com/sireat/OneTech)**  
   A modern e-commerce platform with responsive UI, secure payment integrations, and a seamless user experience.
-- **[Rick & Morty Explorer](https://github.com/sireat/Rick_Morty)**  
-  A Vue.js app for searching and exploring characters from the Rick & Morty universe with a sleek, interactive interface.
-- **[Portfolio](https://sireat.github.io/to-know-about-me/)**  
-  My personal portfolio showcasing my skills, projects, and passion for app development.
-- **[Rick & Morty Website](https://my-rick-morty-website.netlify.app)**  
-  An interactive web app diving into the Rick & Morty multiverse with dynamic content.
-
 <p align="center">
   <a href="https://github.com/sireat?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20More%20Projects-181717?style=flat-square&logo=github&logoColor=white" alt="Explore Projects">

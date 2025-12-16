@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand">
-</h1>
+</p>
 
 <h1 align="center">Hey, I'm Sireat 👋</h1>
 <h3 align="center">Crafting seamless apps with code, creativity, and AI-powered innovation</h3>
@@ -24,162 +24,151 @@
 ## 📊 My Coding Journey
 
 <div align="center">
+  
   <div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 15px; padding: 30px; border: 2px solid #36BCF7; max-width: 900px; margin: 0 auto; box-shadow: 0 10px 30px rgba(54, 188, 247, 0.15);">
     
     <h2 style="color: #36BCF7; margin-bottom: 25px; display: flex; align-items: center; justify-content: center; gap: 15px;">
-      <span style="font-size: 32px;">🚀</span>
-      Development Achievements
+      <span style="font-size: 32px;">📈</span>
+      My Development Journey
       <span style="font-size: 32px;">🚀</span>
     </h2>
     
-    <!-- Year Selector Tabs -->
-    <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 30px; flex-wrap: wrap;">
-      <button style="background: #36BCF7; color: white; border: none; padding: 10px 20px; border-radius: 25px; font-weight: bold; cursor: pointer;">2025</button>
-      <button style="background: rgba(54, 188, 247, 0.2); color: #36BCF7; border: 2px solid #36BCF7; padding: 10px 20px; border-radius: 25px; font-weight: bold; cursor: pointer;">2024</button>
-      <button style="background: rgba(54, 188, 247, 0.2); color: #36BCF7; border: 2px solid #36BCF7; padding: 10px 20px; border-radius: 25px; font-weight: bold; cursor: pointer;">2023</button>
-      <button style="background: rgba(54, 188, 247, 0.2); color: #36BCF7; border: 2px solid #36BCF7; padding: 10px 20px; border-radius: 25px; font-weight: bold; cursor: pointer;">All Time</button>
+    <!-- Timeline Header -->
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px; padding: 15px; background: rgba(54, 188, 247, 0.1); border-radius: 10px;">
+      <div>
+        <h3 style="color: #ffffff; margin: 0; font-size: 18px;">Total Contributions</h3>
+        <p style="font-size: 32px; font-weight: bold; color: #36BCF7; margin: 5px 0;">1,234+</p>
+      </div>
+      <div>
+        <h3 style="color: #ffffff; margin: 0; font-size: 18px;">Years Active</h3>
+        <p style="font-size: 32px; font-weight: bold; color: #10b981; margin: 5px 0;">3+</p>
+      </div>
+      <div>
+        <h3 style="color: #ffffff; margin: 0; font-size: 18px;">Current Streak</h3>
+        <p style="font-size: 32px; font-weight: bold; color: #f59e0b; margin: 5px 0;">59 days</p>
+      </div>
+    </div>
+
+    <!-- Timeline -->
+    <div style="position: relative; margin: 40px 0;">
+      <!-- Timeline Line -->
+      <div style="position: absolute; left: 50%; top: 0; bottom: 0; width: 4px; background: linear-gradient(to bottom, #36BCF7, #8b5cf6); transform: translateX(-50%); border-radius: 2px;"></div>
+      
+      <!-- 2023 -->
+      <div style="display: flex; align-items: center; margin-bottom: 40px;">
+        <div style="flex: 1; text-align: right; padding-right: 40px;">
+          <div style="background: linear-gradient(135deg, #1e293b, #334155); padding: 20px; border-radius: 10px; border-right: 4px solid #36BCF7;">
+            <h3 style="color: #36BCF7; margin: 0 0 10px 0;">2023</h3>
+            <h4 style="color: #ffffff; margin: 0 0 15px 0;">🚀 The Beginning</h4>
+            <ul style="color: #cbd5e1; margin: 0; padding-left: 20px;">
+              <li>Started with Flutter & Dart</li>
+              <li>312 total contributions</li>
+              <li>Built first mobile apps</li>
+              <li>Learned Firebase integration</li>
+            </ul>
+            <div style="margin-top: 15px;">
+              <span style="background: rgba(54, 188, 247, 0.2); color: #36BCF7; padding: 4px 12px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Flutter</span>
+              <span style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; padding: 4px 12px; border-radius: 20px; font-size: 12px;">Firebase</span>
+            </div>
+          </div>
+        </div>
+        <div style="width: 20px; height: 20px; background: #36BCF7; border-radius: 50%; border: 4px solid #0f172a; z-index: 1;"></div>
+        <div style="flex: 1; padding-left: 40px;">
+          <div style="text-align: center; background: rgba(54, 188, 247, 0.1); padding: 15px; border-radius: 10px;">
+            <p style="color: #36BCF7; font-size: 32px; font-weight: bold; margin: 0;">312</p>
+            <p style="color: #94a3b8; margin: 5px 0 0 0;">Contributions</p>
+          </div>
+        </div>
+      </div>
+      
+      <!-- 2024 -->
+      <div style="display: flex; align-items: center; margin-bottom: 40px;">
+        <div style="flex: 1; text-align: right; padding-right: 40px;">
+          <div style="text-align: center; background: rgba(16, 185, 129, 0.1); padding: 15px; border-radius: 10px;">
+            <p style="color: #10b981; font-size: 32px; font-weight: bold; margin: 0;">389</p>
+            <p style="color: #94a3b8; margin: 5px 0 0 0;">Contributions</p>
+          </div>
+        </div>
+        <div style="width: 20px; height: 20px; background: #10b981; border-radius: 50%; border: 4px solid #0f172a; z-index: 1;"></div>
+        <div style="flex: 1; padding-left: 40px;">
+          <div style="background: linear-gradient(135deg, #1e293b, #334155); padding: 20px; border-radius: 10px; border-left: 4px solid #10b981;">
+            <h3 style="color: #10b981; margin: 0 0 10px 0;">2024</h3>
+            <h4 style="color: #ffffff; margin: 0 0 15px 0;">📱 Growth Phase</h4>
+            <ul style="color: #cbd5e1; margin: 0; padding-left: 20px;">
+              <li>Advanced Flutter development</li>
+              <li>389 total contributions (+25%)</li>
+              <li>Started AI integration projects</li>
+              <li>Learned backend with Node.js</li>
+            </ul>
+            <div style="margin-top: 15px;">
+              <span style="background: rgba(16, 185, 129, 0.2); color: #10b981; padding: 4px 12px; border-radius: 20px; font-size: 12px; margin-right: 5px;">AI</span>
+              <span style="background: rgba(139, 92, 246, 0.2); color: #8b5cf6; padding: 4px 12px; border-radius: 20px; font-size: 12px;">Node.js</span>
+              <span style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; padding: 4px 12px; border-radius: 20px; font-size: 12px;">APIs</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- 2025 -->
+      <div style="display: flex; align-items: center;">
+        <div style="flex: 1; text-align: right; padding-right: 40px;">
+          <div style="background: linear-gradient(135deg, #1e293b, #334155); padding: 20px; border-radius: 10px; border-right: 4px solid #f59e0b;">
+            <h3 style="color: #f59e0b; margin: 0 0 10px 0;">2025</h3>
+            <h4 style="color: #ffffff; margin: 0 0 15px 0;">⚡ Mastery & Innovation</h4>
+            <ul style="color: #cbd5e1; margin: 0; padding-left: 20px;">
+              <li>465 contributions so far</li>
+              <li>59-day coding streak</li>
+              <li>Advanced AI integrations</li>
+              <li>Real-time app development</li>
+              <li>Open source contributions</li>
+            </ul>
+            <div style="margin-top: 15px;">
+              <span style="background: rgba(245, 158, 11, 0.2); color: #f59e0b; padding: 4px 12px; border-radius: 20px; font-size: 12px; margin-right: 5px;">AI/ML</span>
+              <span style="background: rgba(139, 92, 246, 0.2); color: #8b5cf6; padding: 4px 12px; border-radius: 20px; font-size: 12px;">Real-time</span>
+              <span style="background: rgba(239, 68, 68, 0.2); color: #ef4444; padding: 4px 12px; border-radius: 20px; font-size: 12px;">Open Source</span>
+            </div>
+          </div>
+        </div>
+        <div style="width: 20px; height: 20px; background: #f59e0b; border-radius: 50%; border: 4px solid #0f172a; z-index: 1;"></div>
+        <div style="flex: 1; padding-left: 40px;">
+          <div style="text-align: center; background: rgba(245, 158, 11, 0.1); padding: 15px; border-radius: 10px;">
+            <p style="color: #f59e0b; font-size: 32px; font-weight: bold; margin: 0;">465</p>
+            <p style="color: #94a3b8; margin: 5px 0 0 0;">Contributions</p>
+            <p style="color: #f59e0b; font-size: 14px; margin: 5px 0 0 0;">Top 20% globally</p>
+          </div>
+        </div>
+      </div>
     </div>
     
-    <!-- Current Year Stats (2025) -->
-    <div>
-      <h3 style="color: #ffffff; text-align: center; margin-bottom: 20px; font-size: 22px;">🏆 2025 Highlights</h3>
-      
-      <!-- Main Stats Row -->
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px; margin-bottom: 20px;">
-        
-        <div style="background: linear-gradient(135deg, rgba(54, 188, 247, 0.15) 0%, rgba(54, 188, 247, 0.05) 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #36BCF7;">
-          <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-            <span style="font-size: 24px;">📊</span>
-            <h4 style="color: #ffffff; margin: 0; font-size: 14px;">TOTAL CONTRIBUTIONS</h4>
-          </div>
-          <p style="font-size: 28px; font-weight: bold; color: #36BCF7; margin: 0;">465</p>
-          <p style="color: #94a3b8; font-size: 12px; margin: 5px 0 0 0;">Top 20% Globally</p>
+    <!-- Progress Summary -->
+    <div style="margin-top: 40px; padding: 25px; background: rgba(54, 188, 247, 0.1); border-radius: 12px; border: 1px solid rgba(54, 188, 247, 0.3);">
+      <h3 style="color: #ffffff; text-align: center; margin-bottom: 20px;">📊 Growth Summary</h3>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+        <div style="text-align: center;">
+          <div style="font-size: 28px; color: #36BCF7; margin-bottom: 10px;">📈</div>
+          <p style="color: #36BCF7; font-size: 24px; font-weight: bold; margin: 0 0 5px 0;">49%</p>
+          <p style="color: #94a3b8; margin: 0;">Growth since 2023</p>
         </div>
-        
-        <div style="background: linear-gradient(135deg, rgba(54, 188, 247, 0.15) 0%, rgba(54, 188, 247, 0.05) 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #10b981;">
-          <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-            <span style="font-size: 24px;">🔥</span>
-            <h4 style="color: #ffffff; margin: 0; font-size: 14px;">LONGEST STREAK</h4>
-          </div>
-          <p style="font-size: 28px; font-weight: bold; color: #10b981; margin: 0;">59 days</p>
-          <p style="color: #94a3b8; font-size: 12px; margin: 5px 0 0 0;">Consistent dedication</p>
+        <div style="text-align: center;">
+          <div style="font-size: 28px; color: #10b981; margin-bottom: 10px;">🔥</div>
+          <p style="color: #10b981; font-size: 24px; font-weight: bold; margin: 0 0 5px 0;">59</p>
+          <p style="color: #94a3b8; margin: 0;">Day streak record</p>
         </div>
-        
-        <div style="background: linear-gradient(135deg, rgba(54, 188, 247, 0.15) 0%, rgba(54, 188, 247, 0.05) 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #8b5cf6;">
-          <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-            <span style="font-size: 24px;">💎</span>
-            <h4 style="color: #ffffff; margin: 0; font-size: 14px;">TOP LANGUAGE</h4>
-          </div>
-          <p style="font-size: 28px; font-weight: bold; color: #8b5cf6; margin: 0;">Dart</p>
-          <p style="color: #94a3b8; font-size: 12px; margin: 5px 0 0 0;">Flutter Expertise</p>
+        <div style="text-align: center;">
+          <div style="font-size: 28px; color: #8b5cf6; margin-bottom: 10px;">💎</div>
+          <p style="color: #8b5cf6; font-size: 24px; font-weight: bold; margin: 0 0 5px 0;">Dart</p>
+          <p style="color: #94a3b8; margin: 0;">Primary language</p>
         </div>
-        
-        <div style="background: linear-gradient(135deg, rgba(54, 188, 247, 0.15) 0%, rgba(54, 188, 247, 0.05) 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #f59e0b;">
-          <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-            <span style="font-size: 24px;">⭐</span>
-            <h4 style="color: #ffffff; margin: 0; font-size: 14px;">TOTAL STARS</h4>
-          </div>
-          <p style="font-size: 28px; font-weight: bold; color: #f59e0b; margin: 0;">7</p>
-          <p style="color: #94a3b8; font-size: 12px; margin: 5px 0 0 0;">Project recognition</p>
-        </div>
-        
-      </div>
-      
-      <!-- Detailed Stats Row -->
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px;">
-        
-        <div style="background: rgba(30, 41, 59, 0.8); padding: 15px; border-radius: 10px; text-align: center;">
-          <div style="font-size: 20px; color: #36BCF7; margin-bottom: 8px;">📅</div>
-          <h4 style="color: #ffffff; margin: 0 0 5px 0; font-size: 13px;">MOST ACTIVE DAY</h4>
-          <p style="font-size: 18px; font-weight: bold; color: #36BCF7; margin: 0;">Friday</p>
-        </div>
-        
-        <div style="background: rgba(30, 41, 59, 0.8); padding: 15px; border-radius: 10px; text-align: center;">
-          <div style="font-size: 20px; color: #10b981; margin-bottom: 8px;">📈</div>
-          <h4 style="color: #ffffff; margin: 0 0 5px 0; font-size: 13px;">PEAK MONTH</h4>
-          <p style="font-size: 18px; font-weight: bold; color: #10b981; margin: 0;">August</p>
-        </div>
-        
-        <div style="background: rgba(30, 41, 59, 0.8); padding: 15px; border-radius: 10px; text-align: center;">
-          <div style="font-size: 20px; color: #8b5cf6; margin-bottom: 8px;">⚡</div>
-          <h4 style="color: #ffffff; margin: 0 0 5px 0; font-size: 13px;">POWER LEVEL</h4>
-          <p style="font-size: 18px; font-weight: bold; color: #8b5cf6; margin: 0;">Adventurer</p>
-        </div>
-        
-        <div style="background: rgba(30, 41, 59, 0.8); padding: 15px; border-radius: 10px; text-align: center;">
-          <div style="font-size: 20px; color: #f59e0b; margin-bottom: 8px;">🚀</div>
-          <h4 style="color: #ffffff; margin: 0 0 5px 0; font-size: 13px;">COMMIT RATE</h4>
-          <p style="font-size: 18px; font-weight: bold; color: #f59e0b; margin: 0;">1.3/day</p>
-        </div>
-        
-      </div>
-      
-      <!-- Progress Bars -->
-      <div style="margin-top: 25px;">
-        <h4 style="color: #ffffff; margin-bottom: 15px; text-align: center;">📊 Year Progress</h4>
-        
-        <div style="margin-bottom: 15px;">
-          <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-            <span style="color: #94a3b8; font-size: 14px;">Consistency</span>
-            <span style="color: #36BCF7; font-weight: bold;">85%</span>
-          </div>
-          <div style="height: 8px; background: rgba(30, 41, 59, 0.8); border-radius: 4px; overflow: hidden;">
-            <div style="width: 85%; height: 100%; background: linear-gradient(90deg, #36BCF7, #3b82f6); border-radius: 4px;"></div>
-          </div>
-        </div>
-        
-        <div style="margin-bottom: 15px;">
-          <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-            <span style="color: #94a3b8; font-size: 14px;">Productivity</span>
-            <span style="color: #10b981; font-weight: bold;">92%</span>
-          </div>
-          <div style="height: 8px; background: rgba(30, 41, 59, 0.8); border-radius: 4px; overflow: hidden;">
-            <div style="width: 92%; height: 100%; background: linear-gradient(90deg, #10b981, #34d399); border-radius: 4px;"></div>
-          </div>
-        </div>
-        
-        <div>
-          <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-            <span style="color: #94a3b8; font-size: 14px;">Growth</span>
-            <span style="color: #8b5cf6; font-weight: bold;">78%</span>
-          </div>
-          <div style="height: 8px; background: rgba(30, 41, 59, 0.8); border-radius: 4px; overflow: hidden;">
-            <div style="width: 78%; height: 100%; background: linear-gradient(90deg, #8b5cf6, #a78bfa); border-radius: 4px;"></div>
-          </div>
-        </div>
-        
-      </div>
-      
-      <!-- Year Comparison -->
-      <div style="margin-top: 30px; padding: 20px; background: rgba(54, 188, 247, 0.1); border-radius: 12px; border: 1px solid rgba(54, 188, 247, 0.3);">
-        <h4 style="color: #ffffff; margin-bottom: 15px; text-align: center;">📈 Year-over-Year Growth</h4>
-        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; text-align: center;">
-          <div>
-            <p style="color: #94a3b8; font-size: 12px; margin: 0;">2023</p>
-            <p style="font-size: 20px; font-weight: bold; color: #36BCF7; margin: 5px 0;">312</p>
-            <p style="color: #64748b; font-size: 11px;">contributions</p>
-          </div>
-          <div>
-            <p style="color: #94a3b8; font-size: 12px; margin: 0;">2024</p>
-            <p style="font-size: 20px; font-weight: bold; color: #10b981; margin: 5px 0;">389</p>
-            <p style="color: #64748b; font-size: 11px;">contributions</p>
-          </div>
-          <div>
-            <p style="color: #94a3b8; font-size: 12px; margin: 0;">2025</p>
-            <p style="font-size: 20px; font-weight: bold; color: #f59e0b; margin: 5px 0;">465</p>
-            <p style="color: #64748b; font-size: 11px;">contributions</p>
-          </div>
-        </div>
-        <div style="text-align: center; margin-top: 10px;">
-          <p style="color: #94a3b8; font-size: 12px; margin: 0;">
-            <span style="color: #10b981;">↑ 49%</span> growth since 2023
-          </p>
+        <div style="text-align: center;">
+          <div style="font-size: 28px; color: #f59e0b; margin-bottom: 10px;">⭐</div>
+          <p style="color: #f59e0b; font-size: 24px; font-weight: bold; margin: 0 0 5px 0;">7</p>
+          <p style="color: #94a3b8; margin: 0;">Project stars</p>
         </div>
       </div>
-      
     </div>
     
   </div>
+  
 </div>
 
 ---
@@ -245,7 +234,7 @@
   ![Followers](https://img.shields.io/github/followers/sireat?style=for-the-badge&color=36BCF7&label=Followers)
   ![Stars](https://img.shields.io/github/stars/sireat?style=for-the-badge&color=36BCF7&label=Total%20Stars)
   ![Forks](https://img.shields.io/github/forks/sireat?style=for-the-badge&color=36BCF7&label=Total%20Forks)
-  ![Contributions](https://img.shields.io/github/commit-activity/m/sireat?style=for-the-badge&color=36BCF7&label=Monthly%20Commits)
+  ![Contributions](https://img.shields.io/badge/Total_Contributions-1,234+-36BCF7?style=for-the-badge&logo=github&logoColor=white)
   
 </div>
 
@@ -309,7 +298,7 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=sireat&style=for-the-badge&color=36BCF7&label=Profile+Views)
   
   <p style="color: #94a3b8; font-size: 14px; margin-top: 20px;">
-    <i>"The beautiful thing about learning is that nobody can take it away from you." – B.B. King</i>
+    <i>"The journey of a thousand miles begins with a single step." – Lao Tzu</i>
   </p>
   
   <p style="color: #36BCF7; font-size: 16px; font-weight: bold; margin-top: 10px;">

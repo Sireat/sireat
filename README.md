@@ -54,29 +54,38 @@
 
 <div align="center">
   
-  ### **Achievements**
-  <img src="https://github-profile-trophy.vercel.app/?username=sireat&theme=dracula&no-frame=true&margin-w=10&margin-h=10&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" width="100%">
-  
-  ### **Activity & Stats**
+  ### **Stats Overview**
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sireat&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
+        <!-- GitHub Stats Card -->
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sireat&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sireat&theme=dracula&hide_border=true" alt="GitHub Streak" height="180">
+        <!-- Top Languages Card -->
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sireat&theme=dracula&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sireat&theme=dracula&hide_border=true&area=true&height=300" alt="GitHub Activity Graph" width="100%">
+        <!-- GitHub Streak Stats - ALTERNATIVE URL -->
+        <img height="180em" src="https://streak-stats.demolab.com?user=sireat&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
       </td>
     </tr>
   </table>
   
-  ### **Top Languages**
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sireat&theme=dracula&hide_border=true&layout=compact&langs_count=8&exclude_repo=README-stats,github-readme-stats" alt="Top Languages" height="180">
-  
+  ### **Activity Graph**
+  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=sireat&theme=dracula&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph" width="100%">
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <!-- GitHub Trophies with reliable URL -->
+  <img src="https://github-profile-trophy.vercel.app/?username=sireat&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="100%">
 </div>
 
 ---

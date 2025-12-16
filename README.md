@@ -1,126 +1,122 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="Waving Hand">
 </p>
 
 <h1 align="center">Hey, I'm Sireat 👋</h1>
-<h3 align="center">Crafting seamless apps with code, creativity, and AI-powered innovation.</h3>
+<h3 align="center">Flutter Developer • AI Integration Enthusiast • UI/UX Craftsman</h3>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Flutter+Developer;AI+Integration+Expert;UI%2FUX+Enthusiast;Open+Source+Contributor;Building+the+Future+with+Real-Time+Apps">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Flutter+Developer;UI%2FUX+Enthusiast;Building+the+Future+with+Real-Time+Apps" alt="typing svg">
+  <a href="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=Flutter+Developer;AI-Powered+Mobile+Apps;Pixel-Perfect+UI%2FUX;Real-Time+and+Scalable+Solutions;Always+Learning+%26+Building">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&height=50" alt="Typing Animation">
   </a>
 </p>
 
 ---
 
-## 🌟 About Me
-- 💻 **Flutter Developer** building cross-platform apps with pixel-perfect UI/UX and real-time features.
-- 🤖 Pioneering **AI integrations** with tools like Google Generative AI for voice transcription, note generation, and creative visualizations.
-- 🎨 Passionate about creating **interactive experiences**, from dynamic call interfaces to AI-driven dreamboards.
-- 🌍 Committed to **open-source** projects and collaborative innovation.
-- ⚡ Always exploring new frameworks, tools, and techniques to push the boundaries of app development.
+## 🚀 About Me
+
+I’m a **Flutter Developer** passionate about building **high-quality, scalable, and user-focused mobile applications**.
+
+- 💻 Cross-platform Flutter apps with clean architecture  
+- 🤖 AI integrations (OCR, voice transcription, generative features)  
+- 🎨 Strong UI/UX focus with animations & interaction  
+- 🌍 Open-source contributor and collaborator  
+- ⚡ Constantly learning and improving
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://flutter.dev">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  </a>
-  <a href="https://dart.dev">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-  </a>
-  <a href="https://nestjs.com">
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
-  </a>
-  <a href="https://vuejs.org">
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
-  </a>
-  <a href="https://www.postgresql.org">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  </a>
-  <a href="https://firebase.google.com">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
-  </a>
-  <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  </a>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws,linux" alt="Additional Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws,linux"/>
 </p>
 
 ---
 
-## 🌍 Languages & Accessibility
-- **Multilingual Support**: Proficient in integrating **Amharic** and other languages into apps using text-to-speech and custom fonts like Noto Sans Ethiopic.
-- **Accessibility**: Focused on building inclusive apps with voice interaction and dynamic UI elements for diverse user needs.
+## 🌍 Localization & Accessibility
+
+- 🌐 Multilingual apps (Amharic & more)
+- 🔊 Text-to-speech & voice-enabled features
+- 🧩 Custom fonts (Noto Sans Ethiopic) & inclusive UI
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Highlights
 
 <p align="center">
-  <a href="https://github.com/sireat">
-    <img src="https://github-profile-trophy.vercel.app/?username=sireat&theme=dracula&no-frame=true&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies">
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=sireat&theme=dracula&no-frame=true&column=6"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sireat&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sireat&theme=dracula&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=sireat&show_icons=true&theme=dracula&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sireat&theme=dracula&hide_border=true"/>
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🌟 Highlights
-- **[VibeConnect](https://github.com/sireat/VibeConnect)**  
-  A real-time chat and calling app built with Flutter and CometChat, featuring AI-powered note-taking, voice transcription, and creative dreamboards with music and visual generation.
-- **[OneTech](https://github.com/sireat/OneTech)**  
-  A modern e-commerce platform with responsive UI, secure payment integrations, and a seamless user experience.
+### ⭐ Selected Work
+
+**🔹 VibeConnect**  
+Real-time chat & calling app with Flutter and CometChat  
+- AI note-taking & voice transcription  
+- Creative dreamboards with music & visuals  
+
+**🔹 OneTech**  
+Modern e-commerce platform  
+- Responsive UI  
+- Secure authentication & scalable backend  
+
 <p align="center">
   <a href="https://github.com/sireat?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20More%20Projects-181717?style=flat-square&logo=github&logoColor=white" alt="Explore Projects">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📊 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sireat&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sireat&theme=dracula&hide_border=true&area=true"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sireat">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/sireat21">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
   </a>
   <a href="https://github.com/sireat">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:sireatag@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sireat&style=flat-square&color=36BCF7&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=sireat&style=flat-square&color=36BCF7&label=Profile+Views"/>
 </p>
 
 <p align="center">
-  <i>Code is poetry. Let's create something extraordinary with AI and creativity! ✨</i>
+  <i>“Code is not just logic — it’s an experience.” ✨</i>
 </p>
